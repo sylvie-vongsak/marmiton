@@ -1,0 +1,119 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color:#efefef;
+    font-size: 16px;
+}
+
+.container {
+    width: 1024px;
+    margin: auto;
+
+}
+
+.logo {
+    width: 18%;
+    margin-top: 15px;
+    margin-left: 3%;
+}
+
+header {
+    background-color: white;
+    border-bottom: 1px solid #f3735f;
+    height: 70px;
+}
+
+.body{
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px ;
+    padding-top: 50px;
+
+}
+
+.text{
+font-size:10px ;
+color: #8B98B1;
+text-align: center;
+padding-top: 10px;
+}
+
+.picture {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.photo {
+width: 250px;
+height:250px;
+border-radius: 5%;
+}
+
+
+p{
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: #393c6C;
+
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #f3735f;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+
+} 
+
+.liste {
+    color: #6C6C6C;
+    line-height: 25px;
+}
+
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #393c6c;
+    line-height: 22px;
+}
+
+.time {
+background-color:#8B98B1;
+text-align:  center;
+color: white;
+font-size: 22px ;
+border-radius: 5px;
+width: 500px;
+height: 30px;
+padding-top: 10px;
+margin-left: 200px;
+margin-bottom: 50px;
+
+}
+
+
+.instruction {
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 70px;
+    padding-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 70px;
+    color: #8B98B1;
+}
